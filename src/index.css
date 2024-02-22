@@ -3,7 +3,7 @@
 @tailwind utilities;
 
 .btn {
-  @apply rounded-xl h-10 px-4 grid place-content-center font-semibold  transition-all;
+  @apply rounded-xl h-10 px-4 grid place-content-center font-semibold  transition-all hover:brightness-90;
 }
 
 .btn-primary {
